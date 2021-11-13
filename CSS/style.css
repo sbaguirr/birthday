@@ -431,5 +431,14 @@ div#mountain{
         top: 40%;
         border-radius: 80%;
       }
+
+    div#mountain{
+       background-size: 500px;
+    }
+
+    .giftbox:after{
+        font-size: 40px;
+    }
+
   }
   
